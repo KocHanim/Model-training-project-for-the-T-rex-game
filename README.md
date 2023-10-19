@@ -20,7 +20,7 @@ You can use the trained model to play the T-Rex game automatically or experiment
 Python 3.x Dependencies as listed in the code
 --------------------------------------------------------------------------------------------------
 ✓ Contributions: 
-Contributions and enhancements to the project are welcome. Feel free to fork and submit pull requests. 
+Contributions and enhancements to the project are welcome. Feel free to fork and submit pull requests :)
 --------------------------------------------------------------------------------------------------
 ✓ Author:  
 Rumeysa KOÇ
