@@ -1,5 +1,5 @@
 # Model-training-project-for-the-T-rex-game
-Self-Playing T-Rex Game with Deep Learning 
+Self-Playing T-Rex Game with Deep Learning  
 --------------------------------------------------------------------------------------------------
 ✓ Project Description: 
 This project features a self-playing T-Rex game agent powered by a deep learning model. 
