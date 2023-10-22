@@ -12,7 +12,7 @@ Since the overall screen is not of interest to us, I set the frame that would be
 
 To make it easier to label the screenshots I took, I assigned the name of each saved image to the key I pressed, so I was able to label them with a single python code during the tutorial (label = filename.split("_")[0]). I am leaving a picture for example!
 
-
+![296Data](https://github.com/KocHanim/Model-training-project-for-the-T-rex-game/assets/115664157/fa623cf8-6a9e-4245-b400-4da36b9809e9)
 
 
 I have to make the first jump for the model to work. 
