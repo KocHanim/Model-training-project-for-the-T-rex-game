@@ -5,8 +5,14 @@ Self-Playing T-Rex Game with Deep Learning
 This project features a self-playing T-Rex game agent powered by a deep learning model. 
 The T-Rex game, also known as the "No Internet Dinosaur Game," is a simple yet addictive web-based game where the player controls a running T-Rex that must jump over obstacles.
  
-During the data collection phase of the project (trex_getdata), I played the game myself for a while, I wrote a code that takes a screen photo when I press each key.
+During the data collection phase of the project (trex_getdata), I played the game myself for a while, I wrote a code that takes a screen image when I press each key.
 Since the overall screen is not of interest to us, I set the frame that would be most accurate for me in the "Paint" programme.
+
+![Trex_GetData](https://github.com/KocHanim/Model-training-project-for-the-T-rex-game/assets/115664157/7f53092d-a0ab-45bb-ab56-e832494a49eb)
+
+To make it easier to label the screenshots I took, I assigned the name of each saved image to the key I pressed, so I was able to label them with a single python code during the tutorial (label = filename.split("_")[0]). I am leaving a picture for example!
+
+
 
 
 I have to make the first jump for the model to work. 
