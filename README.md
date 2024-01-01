@@ -1,7 +1,7 @@
 # Model-training-project-for-the-T-rex-game
 Self-Playing T-Rex Game with Deep Learning  
 --------------------------------------------------------------------------------------------------
-# ✓ Project Description: 
+## ✓ Project Description: 
 
 
 This project features a self-playing T-Rex game agent powered by a deep learning model. 
@@ -23,7 +23,7 @@ If we do more data and labelling during training, we can get better results. I u
 https://github.com/KocHanim/Model-training-project-for-the-T-rex-game/assets/115664157/01f8a96d-34e9-4db8-b31e-29db1de33731
 
 --------------------------------------------------------------------------------------------------
-# ✓ Key Features: 
+## ✓ Key Features: 
 
 
 Deep Learning Model: The core of the project is a convolutional neural network (CNN) trained to play the T-Rex game automatically by analyzing the game screen. 
@@ -44,18 +44,30 @@ GitHub Repository: This project's code and model weights can be found in this Gi
 
 
 --------------------------------------------------------------------------------------------------
-# ✓ Usage: 
+
+
+## ✓ Usage: 
 
 You can use the trained model to play the T-Rex game automatically or experiment with the model for further improvements.
+
+
 --------------------------------------------------------------------------------------------------
-# ✓ Requirements: 
+
+
+## ✓ Requirements: 
 
 Python 3.x Dependencies as listed in the code
+
+
 --------------------------------------------------------------------------------------------------
-# ✓ Contributions: 
+
+
+## ✓ Contributions: 
 
 Contributions and enhancements to the project are welcome. Feel free to fork and submit pull requests :)
+
+
 --------------------------------------------------------------------------------------------------
-# ✓ Author: 
+## ✓ Author: 
  
 Rumeysa KOÇ
