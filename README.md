@@ -1,4 +1,3 @@
-# Model-training-project-for-the-T-rex-game
 Self-Playing T-Rex Game with Deep Learning  
 --------------------------------------------------------------------------------------------------
 ## ✓ Project Description: 
